@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d040f11a-7bee-4f1d-bcd1-20fd5e959a5a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ERP_barney/SMA_ERP_APP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="149" column="39" lean-forward="true" selection-start-line="149" selection-start-column="39" selection-end-line="149" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN TESTING/CEEMDAN only4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="183" column="57" selection-start-line="183" selection-start-column="57" selection-end-line="183" selection-end-column="57" />
+              <folding>
+                <element signature="e#287#3417#0" />
+                <element signature="e#7753#11048#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SUBJECT_APPLICATION/SMA_SUBJECT_APP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN definition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="e#287#3417#0" />
+                <element signature="e#3488#7669#0" />
+                <element signature="e#7727#10967#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EMD/EMD function definition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="262" column="1" selection-start-line="262" selection-start-column="1" selection-end-line="262" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#255#3709#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN TESTING/CEEMDAN testing subjects.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="322" column="20" selection-start-line="309" selection-end-line="322" selection-end-column="20" />
+              <folding>
+                <element signature="e#287#3417#0" />
+                <element signature="e#3488#7669#0" />
+                <element signature="e#7727#10967#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EMD/EMD TESTING/EMD_SUBJECT_APP_TEST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="259" column="11" selection-start-line="247" selection-end-line="259" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#255#3709#0" />
+                <element signature="e#3781#8357#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN definition with slow stopping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="309" column="20" selection-start-line="309" selection-start-column="20" selection-end-line="309" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#287#3417#0" />
+                <element signature="e#3488#7277#0" />
+                <element signature="e#7335#10575#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>EMD_VER</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../OneDrive-2018-11-25/OneDrive-2018-11-25/Data storage.py" />
+        <option value="$PROJECT_DIR$/SMA_complete.py" />
+        <option value="$PROJECT_DIR$/sma_definition.py" />
+        <option value="$PROJECT_DIR$/example trier.py" />
+        <option value="$PROJECT_DIR$/../arrays/sma try 2.py" />
+        <option value="$PROJECT_DIR$/SMA_ERP_APP_def.py" />
+        <option value="$PROJECT_DIR$/SMA_ERP_function.py" />
+        <option value="$PROJECT_DIR$/SMA_ERP_function_is_the_same.py" />
+        <option value="$PROJECT_DIR$/subject5_1ma_SMA_APP.py" />
+        <option value="$PROJECT_DIR$/Subject4_1ma_SMA_APP.py" />
+        <option value="$PROJECT_DIR$/subject2_1ma_SMA_APP.py" />
+        <option value="$PROJECT_DIR$/SMA_ERP_APP.py" />
+        <option value="$PROJECT_DIR$/SMA_ALPHA_APP.py" />
+        <option value="$PROJECT_DIR$/Subjects 1ma/subject 5/subject5_1ma_SMA_APP_sham_correct.py" />
+        <option value="$PROJECT_DIR$/Subjects 1ma/subject 4/Subject4_1ma_SMA_APP_sham_correct.py" />
+        <option value="$PROJECT_DIR$/../EMD/EMD.py" />
+        <option value="$PROJECT_DIR$/SMA_SUBJECT_APP.py" />
+        <option value="$PROJECT_DIR$/../EMD/CEEMDAN definition with slow stopping.py" />
+        <option value="$PROJECT_DIR$/../EMD/EMD_SUBJECT_APP_TEST.py" />
+        <option value="$PROJECT_DIR$/../EMD/EMD TESTING/EMD_SUBJECT_APP_TEST.py" />
+        <option value="$PROJECT_DIR$/../EMD/CEEMDAN TESTING/CEEMDAN testing subjects.py" />
+        <option value="$PROJECT_DIR$/../EMD/EMD ONLY 4.py" />
+        <option value="$PROJECT_DIR$/../EMD/CEEMDAN definition.py" />
+        <option value="$PROJECT_DIR$/../EMD/CEEMDAN only4.py" />
+        <option value="$PROJECT_DIR$/SUBJECT_APPLICATION/SMA_SUBJECT_APP.py" />
+        <option value="$PROJECT_DIR$/../EMD/EMD function definition.py" />
+        <option value="$PROJECT_DIR$/../EMD/CEEMDAN TESTING/CEEMDAN only4.py" />
+        <option value="$PROJECT_DIR$/ERP_barney/SMA_ERP_APP.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="-25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EMD/CEEMDAN TESTING" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gjoca\OneDrive\Desktop\EMD\CEEMDAN TESTING" />
+      <recent name="C:\Users\gjoca\OneDrive\Desktop\EMD" />
+      <recent name="C:\Users\gjoca\OneDrive\Desktop\SMA\Subjects 1ma\subject 4" />
+      <recent name="C:\Users\gjoca\OneDrive\Desktop\SMA\Subjects 1ma\subject 5" />
+      <recent name="C:\Users\gjoca\OneDrive\Desktop\SMA" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.SMA_ERP_APP">
+    <configuration name="CEEMDAN only4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SMA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EMD/CEEMDAN TESTING" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EMD/CEEMDAN TESTING/CEEMDAN only4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CEEMDAN only4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SMA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EMD" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EMD/CEEMDAN only4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EMD ONLY 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SMA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EMD" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EMD/EMD ONLY 4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SMA_ERP_APP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SMA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ERP_barney" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ERP_barney/SMA_ERP_APP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SMA_SUBJECT_APP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SMA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SUBJECT_APPLICATION" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SUBJECT_APPLICATION/SMA_SUBJECT_APP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SMA_ERP_APP" />
+        <item itemvalue="Python.SMA_SUBJECT_APP" />
+        <item itemvalue="Python.CEEMDAN only4 (1)" />
+        <item itemvalue="Python.CEEMDAN only4" />
+        <item itemvalue="Python.EMD ONLY 4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d040f11a-7bee-4f1d-bcd1-20fd5e959a5a" name="Default Changelist" comment="" />
+      <created>1543259262404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543259262404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27478755" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example trier.py" />
+    <entry file="file://$PROJECT_DIR$/../arrays/sma try 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OneDrive-2018-11-25/OneDrive-2018-11-25/Data storage.py" />
+    <entry file="file://$PROJECT_DIR$/SMA_ERP_APP_def.py" />
+    <entry file="file://$PROJECT_DIR$/SMA_complete.py" />
+    <entry file="file://$PROJECT_DIR$/SMA_real_time_complete.py" />
+    <entry file="file://$PROJECT_DIR$/sma_definition.py" />
+    <entry file="file://$PROJECT_DIR$/SMA_ERP_function.py" />
+    <entry file="file://$PROJECT_DIR$/Subject4_1ma_SMA_APP.py" />
+    <entry file="file://$PROJECT_DIR$/subject2_1ma_SMA_APP.py" />
+    <entry file="file://$PROJECT_DIR$/SMA_ERP_APP.py" />
+    <entry file="file://$PROJECT_DIR$/subject5_1ma_SMA_APP.py" />
+    <entry file="file://$PROJECT_DIR$/SMA_ERP_function_is_the_same.py" />
+    <entry file="file://$PROJECT_DIR$/SMA_ALPHA_APP.py" />
+    <entry file="file://$PROJECT_DIR$/Subjects 1ma/subject 5/subject5_1ma_SMA_APP_sham_correct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#151#2870#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Subjects 1ma/subject 4/Subject4_1ma_SMA_APP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Subjects 1ma/subject 4/Subject4_1ma_SMA_APP_sham_correct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#151#2870#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Subjects 1ma/subject 5/subject5_1ma_SMA_APP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#151#2870#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/EMD.py" />
+    <entry file="file://$PROJECT_DIR$/SMA_SUBJECT_APP.py" />
+    <entry file="file://$PROJECT_DIR$/SMA function definition/SMA_ERP_function_is_the_same.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/EMD_SUBJECT_APP_TEST.py" />
+    <entry file="file://$PROJECT_DIR$/../EMD/EMD ONLY 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="257" lean-forward="true" selection-start-line="257" selection-end-line="257" />
+          <folding>
+            <element signature="e#255#3709#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN only4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="330" lean-forward="true" selection-start-line="330" selection-end-line="330" />
+          <folding>
+            <element signature="e#287#3417#0" />
+            <element signature="e#3488#7669#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUBJECT_APPLICATION/SMA_SUBJECT_APP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN definition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#287#3417#0" />
+            <element signature="e#3488#7669#0" />
+            <element signature="e#7727#10967#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN TESTING/CEEMDAN testing subjects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="322" column="20" selection-start-line="309" selection-end-line="322" selection-end-column="20" />
+          <folding>
+            <element signature="e#287#3417#0" />
+            <element signature="e#3488#7669#0" />
+            <element signature="e#7727#10967#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/EMD TESTING/EMD_SUBJECT_APP_TEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="259" column="11" selection-start-line="247" selection-end-line="259" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#255#3709#0" />
+            <element signature="e#3781#8357#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN definition with slow stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="309" column="20" selection-start-line="309" selection-start-column="20" selection-end-line="309" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#287#3417#0" />
+            <element signature="e#3488#7277#0" />
+            <element signature="e#7335#10575#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/EMD function definition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="262" column="1" selection-start-line="262" selection-start-column="1" selection-end-line="262" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#255#3709#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EMD/CEEMDAN TESTING/CEEMDAN only4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="183" column="57" selection-start-line="183" selection-start-column="57" selection-end-line="183" selection-end-column="57" />
+          <folding>
+            <element signature="e#287#3417#0" />
+            <element signature="e#7753#11048#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ERP_barney/SMA_ERP_APP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="149" column="39" lean-forward="true" selection-start-line="149" selection-start-column="39" selection-end-line="149" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+SINGULAR SPECTRUM ANALYSIS
+
+1. set parameters and define input X
+2. Calculate Covariance matrix C
+3. Calculate eigenvalues (Lambda) and eigen vectors (RHO)
+4. Calculate prncipal components (PC) PC = Y*RHO;
+5. Calculate reconstructed components  RC = PC*RHO
+6. Compare reconstructed to original
+
